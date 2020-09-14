@@ -93,6 +93,7 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+
                     <name>animations</name>
                     <value>true</value>
                 </componentInstanceProperties>
@@ -102,6 +103,7 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+
                     <name>tabs</name>
                     <value>maintabs</value>
                 </componentInstanceProperties>
@@ -171,6 +173,25 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+
+                    <name>latField</name>
+                    <value>Location__Latitude__s</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>longField</name>
+                    <value>Location__Longitude__s</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>titleField</name>
+                    <value>Name</value>
+                </componentInstanceProperties>
+                <componentName>RecordMap</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+
                     <name>tabs</name>
                     <value>sidebartabs</value>
                 </componentInstanceProperties>
